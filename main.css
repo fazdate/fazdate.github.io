@@ -3,11 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+  
 section {
-    height: 100hv;
-    font-family: sans-serif;
+    height: 100vh;
     background-color: #14213d;
+    font-family: sans-serif;
 }
 
 .allas {
